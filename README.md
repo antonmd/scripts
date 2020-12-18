@@ -1,1 +1,1 @@
-# scripts
+# Scripts for automation and maintenance
